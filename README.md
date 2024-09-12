@@ -1,2 +1,2 @@
 # Codsoft
-Poject
+This project is related to Codsoft.
